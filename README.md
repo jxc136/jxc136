@@ -21,6 +21,13 @@
 #### Tools and Platforms 
 <img height="20" src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=ffffff" /><img height="20" src="https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-RSpec-CC342D?logo=Ruby&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Rubocop-ffffff?logo=RuboCop&logoColor=000000" /> 
 
+## Projects
+
+| Project                                                                               | Description                   | Technologies               |
+|---------------------------------------------------------------------------------------|-------------------------------|-----------------------------|
+| [Acebook](https://github.com/jillwones/acebook-mern)                                  | Facebook Clone - group project| MERN, CSS, Cloudinary       |
+| [Guardian News Reader](https://github.com/jxc136/news-summary-challenge)              | View the day's headlines from the Guardian    | Node JS, CSS, HTML, EsBuild, Guardian API            |
+
 
 ## Let's Connect
 
