@@ -19,4 +19,11 @@
 <img height="30" src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=ffffff" /><img height="30" src="https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-RSpec-CC342D?logo=Ruby&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Rubocop-ffffff?logo=RuboCop&logoColor=000000" /> 
 
 
+## Let's Connect
+
+<a href="https://www.linkedin.com/in/joshcarvell/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Connect-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/> <a href="mailto:j_carvell@hotmail.co.uk" target="_blank">
+<img src="https://img.shields.io/badge/j_carvell@hotmail.co.uk-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+
+
 
