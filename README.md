@@ -1,5 +1,11 @@
 [ <img src="https://github.com/jxc136/jxc136/blob/80fde60e481c168286fc1f9617f777b65426008e/Josh_Banner_Image.jpeg" />](https://www.linkedin.com/in/joshcarvell/)
 
+## About Me
+
+**Summary:** Full-stack Javascript and Ruby developer with 8 years of business marketing experience and a recent graduate of a software development bootcamp. Strong technical skills and ability to work effectively in agile development teams.
+
+**Objective:** To obtain a full-stack software developer role in an agile development team, where I can leverage my technical skills, problem-solving abilities, and project management skills to deliver high-quality software. 
+
 
 ## My Technologies
 
