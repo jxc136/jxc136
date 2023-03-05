@@ -21,13 +21,27 @@
 #### Tools and Platforms 
 <img height="20" src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=ffffff" /><img height="20" src="https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-RSpec-CC342D?logo=Ruby&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Rubocop-ffffff?logo=RuboCop&logoColor=000000" /> 
 
-## Projects
+## My Projects
 
-| Project                                                                               | Description                   | Technologies               |
+| Name                         | Description                                                                                   | Tech/Tools        |
+| ---------------------------- | ----------------------------------------------------------------------------------------------| ----------------- |
+| [**jobBuddy**](https://github.com/NicolaHearn/jobBuddy)                  |A webapp app  created to help job hunters stay organised when finding their next career move.  | Mongoose, Express, React, Node.js, Jest, Cypress, Postman, CSS Bootstrap.  |
+| [**Acebook**](https://github.com/jillwones/acebook-mern) | A MERN stack facebook clone built by 5 junior developers over 7 working days. |Mongoose, Express, React, Node.js, Jest, Cypress, Postman, Cloudinary, CSS.         |
+| [**Guardian News Reader**](https://github.com/jxc136/news-summary-challenge) | An app to display the day's headlines from the Guardian API. | Node.js, jest, Postman, Moment.js, HTML, CSS.        |
+| [**Chitter** ](https://github.com/jxc136/chitter-challenge)| A simple twitter clone built using Ruby, ERB, HTML and PostgreSQL.        | Ruby, Sinatra, PostgreSQL, HTML, Rspec, Capybara, Rubocop, Timecop
+
+
+## Projects I'm Contributing To
+
+| Project                                                                               | Description                   | Contribution           |
 |---------------------------------------------------------------------------------------|-------------------------------|-----------------------------|
-| [Acebook](https://github.com/jillwones/acebook-mern)                                  | Facebook Clone - group project| MERN, CSS, Cloudinary       |
-| [Guardian News Reader](https://github.com/jxc136/news-summary-challenge)              | View the day's headlines from the Guardian    | Node JS, CSS, HTML, EsBuild, Guardian API            |
+| [Magic: The Gathering: The Ruby Project](https://github.com/radar/mtg)                | A magic the Gatheing simulation built in Ruby| Added and tested new card files |
 
+## My Writing
+
+| Article                                                                            | Description                   |
+|---------------------------------------------------------------------------------------|-------------------------------|
+| [Unboxing OOP: Your Guide to Encapsulation and Abstraction](https://dev.to/jxc136/unboxing-oop-your-guide-to-encapsulation-and-abstraction-4f14)|  I break down the jargon behind some OOP fundamentals using real world examples.
 
 ## Let's Connect
 
